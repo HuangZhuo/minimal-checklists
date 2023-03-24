@@ -108,7 +108,7 @@ li[data-task="/"]>p>input:checked:after {
   content: " ";
   display: block;
   position: absolute;
-  background-color: var(--background-modifier-accent);
+  background-color: var(--checkbox-color);
   width: calc(50% - .5px);
   height: 100%;
   -webkit-mask-image: none
